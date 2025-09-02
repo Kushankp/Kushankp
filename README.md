@@ -8,5 +8,5 @@
   - No-code/low-code orchestration with **n8n**
   - Scalable backend patterns on **GCP**
 - 💬 Ask me about:  
-  **LangChain**, **Cloudflare**, **FastAPI**, **RAG**, **n8n**, **Groq**, **Pinecone**
+  **LangChain**, **Cloudflare**, **FastAPI**, **RAG**, **n8n**, **Pinecone**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/kushank-pulipati)
