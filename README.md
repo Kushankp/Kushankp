@@ -25,7 +25,7 @@ Currently pursuing my **MS in Computer Science at the University of Illinois Chi
 Python, JavaScript, TypeScript, Java, SQL, C  
 
 **Frameworks & Libraries:**  
-FastAPI, React.js, Flask, Spring Boot, Redux Toolkit  
+FastAPI, React.js, Flask, Redux Toolkit  
 
 **AI/ML Tools:**  
 LangChain, Hugging Face, PyTorch, TensorFlow, Pinecone, MLlib  
