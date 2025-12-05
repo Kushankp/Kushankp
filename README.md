@@ -40,8 +40,8 @@ REST APIs, PostgreSQL, Object-Oriented Design, Agile Methodologies
 
 ### 🧩 Projects & Highlights
 
-- **🧠 RAG-based Knowledge Assistant**  
-  End-to-end LLM app with FastAPI backend and React UI, deployed on Cloud Run  
+- **🧠 Multi-Agent Retrieval-Augmented Debate System**  
+  Developed a domain-aware multi-agent debate platform for enhanced reasoning.
 
 - **💳 FinTech Dashboard (DARWIN)**  
   Engineered API integrations and optimized Redux workflows, improving system performance by **20%**  
