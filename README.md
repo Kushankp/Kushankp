@@ -1,84 +1,24 @@
-# 👋 Hi, I’m **Kushank Pulipati**
+## M.S. Computer Science Student | AI & LLM Systems | Full-Stack Development
 
-💻 **Full Stack Developer** | 🤖 **AI Engineer (RAG & LLM Systems)** | ☁️ **Cloud Enthusiast**
+Passionate about building intelligent systems that turn complex data into reliable, real-world products.
 
----
+I’m an AI Engineer and Full-Stack Developer with a strong focus on **LLM-powered applications**, **Retrieval-Augmented Generation (RAG)** systems, and **scalable backend architectures**. I enjoy working at the intersection of AI infrastructure, system design, and product engineering.
 
-### 🚀 About Me
+Currently pursuing my **M.S. in Computer Science at the University of Illinois Chicago**, I spend most of my time designing agentic workflows, optimizing inference pipelines, and deploying production-ready AI services to the cloud.
 
-I’m a passionate developer specializing in **LLM-powered applications**, **scalable backend systems**, and **AI-driven products**.  
-Currently pursuing my **MS in Computer Science at the University of Illinois Chicago**, I’m exploring the intersection of **AI infrastructure**, **vector databases**, and **cloud-native architectures**.
-
----
-
-### 🧠 What I’ve Been Working On
-- 🧩 Building **Retrieval-Augmented Generation (RAG)** systems using **LangChain**, **FastAPI**, and **React**
-- 🔍 Integrating **Pinecone**, **Hugging Face**, and **Cloudflare Workers** for high-performance AI workflows  
-- ☁️ Deploying production-ready apps on **GCP** with **Docker** and **Cloud Run**
-- ⚙️ Automating tasks & pipelines using **n8n** and **CI/CD**
+I have a deep interest in the **entire product lifecycle** — from idea and architecture to deployment and iteration. I value clean abstractions, pragmatic engineering, and building systems that are both technically sound and genuinely useful.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-**Languages:**  
-Python, JavaScript, TypeScript, Java, SQL, C  
-
-**Frameworks & Libraries:**  
-FastAPI, React.js, Flask, Redux Toolkit  
-
-**AI/ML Tools:**  
-LangChain, Hugging Face, PyTorch, TensorFlow, Pinecone, MLlib  
-
-**Cloud & DevOps:**  
-GCP, Cloudflare, Docker, CI/CD, Kafka, Azure  
-
-**Other:**  
-REST APIs, PostgreSQL, Object-Oriented Design, Agile Methodologies  
-
----
-
-### 🧩 Projects & Highlights
-
-- **🧠 Multi-Agent Retrieval-Augmented Debate System**  
-  Developed a domain-aware multi-agent debate platform for enhanced reasoning.
-
-- **💳 FinTech Dashboard (DARWIN)**  
-  Engineered API integrations and optimized Redux workflows, improving system performance by **20%**  
-
-- **📸 YOLOv8 Small Object Detection (Research)**  
-  Published work improving detection accuracy using **attention-enhanced CNNs**
-
----
-
-### 🎓 Education
-
-🎓 **University of Illinois Chicago** — *M.S. in Computer Science* (2024–2026)  
-🎓 **Amrita Vishwa Vidyapeetham, Bengaluru** — *B.Tech in Computer Science and Engineering* (First Class with Distinction)
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kushank%20Pulipati-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kushank-pulipati)  
-[![GitHub](https://img.shields.io/badge/GitHub-Kushankp-black?style=flat&logo=github)](https://github.com/Kushankp)  
-📧 [kushankrockz@gmail.com](mailto:kushankrockz@gmail.com)
-
----
-
-### 💡 Currently Learning
-
-- Advanced **LLM orchestration**  
-- **Ollama** and **Mistral** deployments  
-- **No-code AI automation** with **n8n**  
-- Scalable **cloud-native microservices**
-
----
-
-### ⚡ Fun Fact
-
-When I’m not debugging or designing RAG pipelines, you’ll find me exploring **AI agent frameworks** or optimizing **build pipelines** just for fun.
-
----
-
-⭐️ *If you like my work, consider giving a star to one of my repositories!*
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![VectorDB](https://img.shields.io/badge/Vector%20Databases-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
