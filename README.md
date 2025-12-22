@@ -9,7 +9,7 @@ I enjoy working at the intersection of AI infrastructure, system design, and pro
 Currently pursuing my **M.S. in Computer Science**, I spend most of my time designing agentic workflows,  
 optimizing inference pipelines, and deploying cloud-ready AI services.
 
-I care deeply about the **entire product lifecycle** — from problem formulation and system design  
+I care deeply about the **entire product lifecycle** from problem formulation and system design  
 to deployment, evaluation, and iteration.
 
 ### Tech Stack
