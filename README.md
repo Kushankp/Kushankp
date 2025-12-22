@@ -8,8 +8,6 @@ Currently pursuing my **M.S. in Computer Science at the University of Illinois C
 
 I have a deep interest in the **entire product lifecycle** — from idea and architecture to deployment and iteration. I value clean abstractions, pragmatic engineering, and building systems that are both technically sound and genuinely useful.
 
----
-
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
